@@ -1,4 +1,4 @@
-package com.udemy.saga.apigateway;
+package org.krish.microservices.saga.apigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
